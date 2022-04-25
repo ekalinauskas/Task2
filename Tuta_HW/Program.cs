@@ -6,7 +6,7 @@ namespace Tuta_HW
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Labas, Pasauli!");
             Console.WriteLine("Enter first number:");
             string inputA = Console.ReadLine();
             Console.WriteLine("Enter second number:");
